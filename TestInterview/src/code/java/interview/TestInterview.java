@@ -5,6 +5,7 @@ public class TestInterview {
 		String str = "KHAOULA";
 	//	chars [] test = str.toCharArray();
 		System.out.println("testst"+str);
+		System.out.println("TestGit");
 		
 	}
 }
