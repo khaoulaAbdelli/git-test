@@ -6,6 +6,7 @@ public class TestInterview {
 	//	chars [] test = str.toCharArray();
 		System.out.println("testst"+str);
 		System.out.println("TestGit");
+		System.out.println("TestGitCommandLine");
 		
 	}
 }
